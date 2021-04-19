@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_Assignment",
+  "version": "1.0.0",
+  "description": "Secind one  where we learn get request routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita",
+  "license": "ISC"
+}
